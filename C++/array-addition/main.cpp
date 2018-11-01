@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 
-const int size = 1e8;
+const int size = 1e7;
 
 int main(int arg, char** argv) {
 	
